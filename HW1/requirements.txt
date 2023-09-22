@@ -1,0 +1,5 @@
+pandas
+nltk
+bs4
+contractions
+scikit-learn
